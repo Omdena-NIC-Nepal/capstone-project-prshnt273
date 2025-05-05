@@ -4,7 +4,6 @@ from utils.data_loader import load_data
 # Configure page
 st.set_page_config(
     page_title="Climate Change Prediction",
-    page_icon="🌍",
     layout="wide",
     initial_sidebar_state="expanded"
 )
